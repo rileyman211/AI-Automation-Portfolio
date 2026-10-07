@@ -1,0 +1,16 @@
+# Restaurant Direct-Order Starter Kit
+Five editable SVG templates plus five separate PDF samples.
+
+Open SVG files in an SVG-capable vector editor such as Inkscape. Text is stored as text, not outlines. Replace the business name, phone, website, sample menus/prices and terms. Arial/Helvetica font substitutions may change spacing; review your exports. Replace gray photo areas with your own licensed photos, remove placeholder labels, and add a real tested QR code where needed.
+
+Print designs use US Letter sizing with generous margins and no bleed. Ask your printer about its settings. Social SVGs include square and 9:16 formats; export at 1080 x 1080 and 1080 x 1920 pixels. PDFs are samples, not editable source files.
+
+QUICK START CHECKLIST
+1. Choose one offer.
+2. Replace every placeholder with current business information.
+3. Add your own approved photos.
+4. Add and test your ordering/catering URL and QR code.
+5. Export the needed social or print size.
+6. Open the final export once and proofread it before publishing.
+
+Canva compatibility and editing in a particular third-party app have not been tested. The SVG source format is the supported editable deliverable. No live ordering QR or food photographs are included. No sales, traffic or revenue result is guaranteed.
